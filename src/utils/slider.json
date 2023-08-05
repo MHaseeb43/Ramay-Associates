@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DHA",
+    "price": "1-22CR",
+    "detail": "Unmatched elegance and security define DHA's prestigious real estate offerings.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Gulberg Gwadar",
+    "price": "50-3 CR",
+    "detail": "Serene coastal living with modern amenities for a luxurious lifestyle.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Lahore Smart City",
+    "price": "50 Lac",
+    "detail": "Experience the epitome of smart living with cutting-edge technology and sustainable infrastructure.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Anchor Gwadar",
+    "price": "50-3 CR",
+    "detail": "Urban oasis offering prime real estate opportunities in a dynamic, growing city.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "DHA 9 Prism",
+    "price": "1-5 CR",
+    "detail": "Embrace modern living in the heart of 9 Prism's thriving community and diverse amenities..",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Qalandar City",
+    "price": "50-200 Lac",
+    "detail": "A vibrant fusion of culture and convenience, offering an enchanting real estate experience.",
+    "image": "./r3.png"
+  }
+]
